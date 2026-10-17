@@ -1,5 +1,5 @@
 # HỆ THỐNG QUẢN LÝ BÁN HÀNG (E-COMMERCE SYSTEM)
-Học phần: Chuyên đề chuyên sâu PTPM 1 - Trường ĐH Nguyễn Tất Thành
+Học phần: Chuyên đề chuyên sâu công nghệ KTPM - Trường ĐH Nguyễn Tất Thành
 
 ## Thành viên nhóm:
 1. Nguyễn Tấn Xuân - 2400002004 (Nhóm trưởng)
